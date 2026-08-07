@@ -2,7 +2,7 @@
 
 A complete, from-scratch deployment guide for Wazuh — Indexer, Manager, Filebeat, and Dashboard — all installed manually on a single Ubuntu 24.04 VM using the **step-by-step installation method**. Every command, config change, and verification step below was run and confirmed working.
 
-![Dashboard Overview](screenshots/09-dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard.png)
 
 ## Table of Contents
 
