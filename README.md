@@ -81,7 +81,7 @@ nano ./config.yml
 
 Since this is an all-in-one deployment, every node in `config.yml` — indexer, server, and dashboard — points to `127.0.0.1`:
 
-> 📸 **Screenshot:** `config.yml` open in your editor showing all three node IPs set to `127.0.0.1`
+![`config.yml`](screenshots/config-yml.png)
 
 ```yaml
 nodes:
